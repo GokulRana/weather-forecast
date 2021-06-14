@@ -1,0 +1,26 @@
+{
+  "name": "heyguys",
+  "version": "1.0.8",
+  "description": "web hosting",
+  "main": "yes",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.1",
+    "nodemon": "^2.0.7",
+    "pug": "^3.0.2",
+    "slugify": "^1.3.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "yes"
+  },
+  "repository": {
+    "type": "git",
+    "url": "gokusaiyan"
+  },
+  "keywords": [
+    "no"
+  ],
+  "author": "gk",
+  "license": "ISC"
+}

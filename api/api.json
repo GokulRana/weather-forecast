@@ -1,0 +1,43 @@
+{
+    "coord": {
+        "lon": 149.1292,
+        "lat": -35.2813
+    },
+    "weather": [
+        {
+            "id": 804,
+            "main": "Clouds",
+            "description": "overcast clouds",
+            "icon": "04n"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 2.87,
+        "feels_like": 2.87,
+        "temp_min": 2.22,
+        "temp_max": 3.33,
+        "pressure": 1001,
+        "humidity": 100
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 1.03,
+        "deg": 50
+    },
+    "clouds": {
+        "all": 90
+    },
+    "dt": 1623266414,
+    "sys": {
+        "type": 1,
+        "id": 9588,
+        "country": "AU",
+        "sunrise": 1623272895,
+        "sunset": 1623308262
+    },
+    "timezone": 36000,
+    "id": 2172517,
+    "name": "City",
+    "cod": 200
+}
